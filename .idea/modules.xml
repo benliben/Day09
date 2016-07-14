@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2.读取第一个项目的数据/2.读取第一个项目的数据.iml" filepath="$PROJECT_DIR$/2.读取第一个项目的数据/2.读取第一个项目的数据.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.短息的备份/3.短息的备份.iml" filepath="$PROJECT_DIR$/3.短息的备份/3.短息的备份.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.使用内容解析者往短信数据库里面插入数据/4.使用内容解析者往短信数据库里面插入数据.iml" filepath="$PROJECT_DIR$/4.使用内容解析者往短信数据库里面插入数据/4.使用内容解析者往短信数据库里面插入数据.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.查询联系人/5.查询联系人.iml" filepath="$PROJECT_DIR$/5.查询联系人/5.查询联系人.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day09.iml" filepath="$PROJECT_DIR$/Day09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

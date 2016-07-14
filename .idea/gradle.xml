@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/2.读取第一个项目的数据" />
+            <option value="$PROJECT_DIR$/3.短息的备份" />
+            <option value="$PROJECT_DIR$/4.使用内容解析者往短信数据库里面插入数据" />
+            <option value="$PROJECT_DIR$/5.查询联系人" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/2.读取第一个项目的数据" />
+            <option value="$PROJECT_DIR$/3.短息的备份" />
+            <option value="$PROJECT_DIR$/4.使用内容解析者往短信数据库里面插入数据" />
+            <option value="$PROJECT_DIR$/5.查询联系人" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

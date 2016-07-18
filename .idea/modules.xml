@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/3.短息的备份/3.短息的备份.iml" filepath="$PROJECT_DIR$/3.短息的备份/3.短息的备份.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.使用内容解析者往短信数据库里面插入数据/4.使用内容解析者往短信数据库里面插入数据.iml" filepath="$PROJECT_DIR$/4.使用内容解析者往短信数据库里面插入数据/4.使用内容解析者往短信数据库里面插入数据.iml" />
       <module fileurl="file://$PROJECT_DIR$/5.查询联系人/5.查询联系人.iml" filepath="$PROJECT_DIR$/5.查询联系人/5.查询联系人.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.向电话联系人里面插入数据/6.向电话联系人里面插入数据.iml" filepath="$PROJECT_DIR$/6.向电话联系人里面插入数据/6.向电话联系人里面插入数据.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7注册内容观察者/7注册内容观察者.iml" filepath="$PROJECT_DIR$/7注册内容观察者/7注册内容观察者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.短信的监听器/8.短信的监听器.iml" filepath="$PROJECT_DIR$/8.短信的监听器/8.短信的监听器.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day09.iml" filepath="$PROJECT_DIR$/Day09.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

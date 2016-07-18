@@ -12,6 +12,9 @@
             <option value="$PROJECT_DIR$/3.短息的备份" />
             <option value="$PROJECT_DIR$/4.使用内容解析者往短信数据库里面插入数据" />
             <option value="$PROJECT_DIR$/5.查询联系人" />
+            <option value="$PROJECT_DIR$/6.向电话联系人里面插入数据" />
+            <option value="$PROJECT_DIR$/7注册内容观察者" />
+            <option value="$PROJECT_DIR$/8.短信的监听器" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
@@ -22,6 +25,9 @@
             <option value="$PROJECT_DIR$/3.短息的备份" />
             <option value="$PROJECT_DIR$/4.使用内容解析者往短信数据库里面插入数据" />
             <option value="$PROJECT_DIR$/5.查询联系人" />
+            <option value="$PROJECT_DIR$/6.向电话联系人里面插入数据" />
+            <option value="$PROJECT_DIR$/7注册内容观察者" />
+            <option value="$PROJECT_DIR$/8.短信的监听器" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
